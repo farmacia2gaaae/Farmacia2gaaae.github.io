@@ -1,0 +1,18 @@
+COMO PUBLICAR NO GITHUB PAGES — Farmácia 2°Gaaae
+
+1. Crie uma conta em github.com (se ainda não tiver).
+2. Crie um repositório novo chamado EXATAMENTE: SEUUSUARIO.github.io
+   (troque SEUUSUARIO pelo seu nome de usuário do GitHub), marcado como Public.
+3. No repositório, clique em "Add file" > "Upload files".
+4. Arraste TODO o conteúdo desta pasta (index.html, 404.html, .nojekyll, assets, etc.)
+   — não a pasta em si, e sim o que está dentro dela. Clique em "Commit changes".
+   Obs.: o arquivo .nojekyll é oculto; se não aparecer, crie-o pelo GitHub em
+   "Add file" > "Create new file" com o nome .nojekyll (vazio).
+5. Vá em Settings > Pages > Source: "Deploy from a branch", branch "main", pasta "/ (root)". Salve.
+6. Em 1-2 minutos o app estará em: https://SEUUSUARIO.github.io
+
+- Os dados são os mesmos do app principal (mesmo banco e mesmos logins).
+- A tela "Usuários" não funciona nesta versão; crie usuários pelo endereço principal
+  https://farmacia2gaaae.lovable.app
+- Ao atualizar o app, será preciso gerar e enviar um novo pacote.
+- Se a rede do trabalho bloquear o banco de dados (não só o site), o login não funcionará.

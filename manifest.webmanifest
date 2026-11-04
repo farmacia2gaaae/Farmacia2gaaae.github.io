@@ -1,0 +1,9 @@
+{
+  "name": "Farmácia 2°Gaaae — Estoque",
+  "short_name": "Estoque",
+  "start_url": "/painel",
+  "display": "standalone",
+  "background_color": "#f5f8f8",
+  "theme_color": "#1f4e57",
+  "icons": [{ "src": "/favicon.png", "sizes": "64x64", "type": "image/png" }]
+}

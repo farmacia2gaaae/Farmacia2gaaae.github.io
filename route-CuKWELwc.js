@@ -1,0 +1,1 @@
+import{k as e}from"./dist-BYsLZ3hm.js";import{o as t}from"./index-BqvB6prG.js";import{t as n}from"./AppShell-CyNEP7Xn.js";var r=e(),i=()=>(0,r.jsx)(n,{children:(0,r.jsx)(t,{})});export{i as component};
